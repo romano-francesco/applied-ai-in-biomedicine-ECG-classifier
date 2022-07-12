@@ -1,4 +1,4 @@
-# ECG Classifier
+# Premature Ventricular Complexes (PVCs) and Premature Atrial Complexes (PACs) detector using an ECG-based Deep Learning approach
 
 This repository contains the code for the project of the course Applied AI 
 in Biomedicine at PoliMi.
