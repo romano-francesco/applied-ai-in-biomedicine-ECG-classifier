@@ -3,7 +3,7 @@
 This repository contains the code for the project of the course Applied AI 
 in Biomedicine at PoliMi.
 
-Read the [report](https://github.com/giovannidispoto/applied-ai-in-biomedicine-ECG-classifier/blob/main/report.pdf) 
+Read the [report](https://github.com/giovannidispoto/applied-ai-in-biomedicine-ECG-classifier/blob/main/Report.pdf) 
 for further details.
 
 ## Summary 
