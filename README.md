@@ -2,7 +2,7 @@
 
 This repository contains the code for the project of the course Applied AI 
 in Biomedicine at PoliMi.
-Checkout the [report](https://github.com/giovannidispoto/applied-ai-in-biomedicine-ECG-classifier/blob/main/report_Applied_AI_in_Biomedicine_Project.pdf) for further details.
+Checkout the [report](https://github.com/giovannidispoto/applied-ai-in-biomedicine-ECG-classifier/blob/main/report.pdf) for further details.
 
 ## Summary 
 In this project, we propose a 1D-CNN that is able to predict, in an 
